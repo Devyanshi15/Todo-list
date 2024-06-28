@@ -13,4 +13,4 @@ This is a simple and intuitive To-Do List web application built with React. It a
 
 -Responsive design
 
-(Link)[https://todo-list-f0dw.onrender.com]
+[https://todo-list-f0dw.onrender.com]
